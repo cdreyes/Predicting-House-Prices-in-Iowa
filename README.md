@@ -11,4 +11,4 @@ URLs to view charts generated in Jupyter notebook as HTML files:
 
 3. Boxplot showing the statistical representation of the Predicated Sale Price by neighborhood
 
-  https://htmlpreview.github.io/?https://github.com/cdreyes/Predicting-House-Prices-in- Iowa/blob/master/pred_sales_quartile_dist_by_lot_area.html
+  https://htmlpreview.github.io/?https://github.com/cdreyes/Predicting-House-Prices-in-Iowa/blob/master/pred_sales_quartile_dist_by_lot_area.html
