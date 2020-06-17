@@ -8,3 +8,7 @@ https://htmlpreview.github.io/?https://github.com/cdreyes/Predicting-House-Price
 2. Scatterplot showing Predicted Sale Price by Neighborhood
 
 https://htmlpreview.github.io/?https://github.com/cdreyes/Predicting-House-Prices-in-Iowa/blob/master/pred_sales_by_neighborhood.html
+
+3. Boxplot showing the statistical representation of the Predicated Sale Price by neighborhood
+
+https://htmlpreview.github.io/?https://github.com/cdreyes/Predicting-House-Prices-in-Iowa/blob/master/pred_sales_quartile_dist_by_lot_area.html
